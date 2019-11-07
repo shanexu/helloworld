@@ -1,0 +1,6 @@
+.stack-work/
+*~
+/result
+*.hi
+*.o
+dist-newstyle/
